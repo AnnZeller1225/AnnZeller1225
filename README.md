@@ -1,4 +1,3 @@
- 👋
    <h3>🙋 Welcome Visitors</h3>
     <p>
       <i
@@ -25,7 +24,7 @@
     </p>
     <p>
       👩‍💻 I’m currently working on project, using Three.js, it's instrument for
-      creating 3D desidn.
+      creating 3D design.
       <a href="https://cryptic-headland-15726.herokuapp.com/#/">Demo</a>
     </p>
 <!--
